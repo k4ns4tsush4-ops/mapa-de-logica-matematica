@@ -1,0 +1,6 @@
+{
+  "name": "LógicaMap — Mapas Conceituais em Lógica Matemática",
+  "description": "Estúdio interativo de mapas conceituais para Lógica Matemática baseado na rede proposicional de Joseph Novak e Aprendizagem Significativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
